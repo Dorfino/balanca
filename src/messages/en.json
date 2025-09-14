@@ -1,0 +1,55 @@
+{
+    "app": {
+        "title": "Weighing System",
+        "tenant": "Company"
+    },
+    "auth": {
+        "login": "Login",
+        "logout": "Logout",
+        "username": "Username",
+        "password": "Password"
+    },
+    "navigation": {
+        "dashboard": "Dashboard",
+        "weighing": {
+            "title": "Weighing",
+            "entry": "Entry",
+            "exit": "Exit"
+        },
+        "registers": {
+            "title": "Registers",
+            "companies": "Companies",
+            "warehouses": "Warehouses",
+            "coldRooms": "Cold Rooms",
+            "batches": "Batches",
+            "products": "Products",
+            "clients": "Clients",
+            "suppliers": "Suppliers",
+            "drivers": "Drivers",
+            "vehicles": "Vehicles"
+        },
+        "reports": {
+            "title": "Reports",
+            "weighing": "Weighing"
+        },
+        "settings": {
+            "title": "Settings",
+            "system": "System",
+            "scale": "Scale",
+            "cameras": "Cameras"
+        }
+    },
+    "common": {
+        "actions": {
+            "save": "Save",
+            "cancel": "Cancel",
+            "edit": "Edit",
+            "delete": "Delete",
+            "search": "Search"
+        },
+        "status": {
+            "active": "Active",
+            "inactive": "Inactive"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "app": {
+        "title": "Sistema de Pesagem",
+        "tenant": "Empresa"
+    },
+    "auth": {
+        "login": "Entrar",
+        "logout": "Sair",
+        "username": "Usuário",
+        "password": "Senha"
+    },
+    "navigation": {
+        "dashboard": "Dashboard",
+        "weighing": {
+            "title": "Pesagem",
+            "entry": "Entrada",
+            "exit": "Saída"
+        },
+        "registers": {
+            "title": "Cadastros",
+            "companies": "Empresas",
+            "warehouses": "Armazéns",
+            "coldRooms": "Câmaras Frias",
+            "batches": "Lotes",
+            "products": "Produtos",
+            "clients": "Clientes",
+            "suppliers": "Fornecedores",
+            "drivers": "Motoristas",
+            "vehicles": "Veículos"
+        },
+        "reports": {
+            "title": "Relatórios",
+            "weighing": "Pesagens"
+        },
+        "settings": {
+            "title": "Configurações",
+            "system": "Sistema",
+            "scale": "Balança",
+            "cameras": "Câmeras"
+        }
+    },
+    "common": {
+        "actions": {
+            "save": "Salvar",
+            "cancel": "Cancelar",
+            "edit": "Editar",
+            "delete": "Excluir",
+            "search": "Buscar"
+        },
+        "status": {
+            "active": "Ativo",
+            "inactive": "Inativo"
+        }
+    }
+}
